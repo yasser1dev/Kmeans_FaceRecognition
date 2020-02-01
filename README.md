@@ -3,7 +3,7 @@
 
 ## Important !!
 
-If you want to know more about that project please read my article [Face Recognition using K-means clustering]() where I discussed the Idea behind face recognition using K-means clustering algorithm !!!
+If you want to know more about that project please read my article [Face Recognition using K-means clustering](https://www.linkedin.com/pulse/face-recognition-using-k-means-clustering-yasser-chihab/) where I discussed the Idea behind face recognition using K-means clustering algorithm !!!
 
 ## Prerequisites
 
